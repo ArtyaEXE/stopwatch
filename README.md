@@ -2,7 +2,7 @@ Vue Stopwatch
 Vue Stopwatch is a simple web application built with Vue.js version 3 that provides a stopwatch functionality.
 
 Getting Started
-To get started with this application, clone this repository and run npm install to install the necessary dependencies. After that, you can run npm run serve to start a local development server. The application can be accessed at http://localhost:8080/.
+To get started with this application, clone this repository and run npm install to install the necessary dependencies. After that, you can run npm run serve to start a local development server. The application can be accessed at http://localhost:8080/. Or use GH pages https://artyaexe.github.io/stopwatch/
 
 Usage
 The stopwatch has four buttons: start, pause, reset, add.
