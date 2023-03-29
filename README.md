@@ -8,7 +8,7 @@ Usage
 The stopwatch has four buttons: start, pause, reset, add.
 
 + Clicking the start button will start the stopwatch.
-+ Clicking the stop button will pause the stopwatch.
++ Clicking the pause button will pause the stopwatch.
 + Clicking the reset button will reset the stopwatch to 0.
 + Clicking the '+' button will add a new stopwatch.
 
